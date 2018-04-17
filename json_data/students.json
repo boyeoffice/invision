@@ -1,0 +1,402 @@
+[
+    {
+        "id": 0,
+        "student_name": "Yuko Rhoades",
+        "parent_name": "Judie",
+        "school_name": "Mediaplanet",
+        "class": 1,
+        "teacher": "Rowena"
+    },
+    {
+        "id": 1,
+        "student_name": "Rosalina Wacquant",
+        "parent_name": "Anabel",
+        "school_name": "Zoozooplus",
+        "class": 6,
+        "teacher": "Denice"
+    },
+    {
+        "id": 2,
+        "student_name": "Celestina Rhoades",
+        "parent_name": "Claudio",
+        "school_name": "Hare Comics",
+        "class": 4,
+        "teacher": "Shaunda"
+    },
+    {
+        "id": 3,
+        "student_name": "Rosalina Perali",
+        "parent_name": "Bessie",
+        "school_name": "Zaamtechno",
+        "class": 6,
+        "teacher": "Ona"
+    },
+    {
+        "id": 4,
+        "student_name": "Nadia Sheahan",
+        "parent_name": "Esther",
+        "school_name": "Keyelectrics",
+        "class": 8,
+        "teacher": "Brittaney"
+    },
+    {
+        "id": 5,
+        "student_name": "Berniece Litwin",
+        "parent_name": "Earnestine",
+        "school_name": "Waredex",
+        "class": 2,
+        "teacher": "Casandra"
+    },
+    {
+        "id": 6,
+        "student_name": "Brittaney Gabor",
+        "parent_name": "Rene",
+        "school_name": "Ventostreet",
+        "class": 2,
+        "teacher": "Mindi"
+    },
+    {
+        "id": 7,
+        "student_name": "Earline Fredexric",
+        "parent_name": "Valda",
+        "school_name": "Aptrax",
+        "class": 3,
+        "teacher": "Casandra"
+    },
+    {
+        "id": 8,
+        "student_name": "Yuko Wegman",
+        "parent_name": "Concetta",
+        "school_name": "Soloelectrics",
+        "class": 4,
+        "teacher": "Berniece"
+    },
+    {
+        "id": 9,
+        "student_name": "Celestina Bator",
+        "parent_name": "Jennie",
+        "school_name": "Tonruntone",
+        "class": 8,
+        "teacher": "Rick"
+    },
+    {
+        "id": 10,
+        "student_name": "Vincent Neilson",
+        "parent_name": "Judie",
+        "school_name": "Funtinin",
+        "class": 6,
+        "teacher": "Minnie"
+    },
+    {
+        "id": 11,
+        "student_name": "Rene Fredexric",
+        "parent_name": "Ona",
+        "school_name": "Truetam",
+        "class": 3,
+        "teacher": "Judie"
+    },
+    {
+        "id": 12,
+        "student_name": "Rosalina St martin",
+        "parent_name": "Gayla",
+        "school_name": "Golden-lane",
+        "class": 8,
+        "teacher": "Alex"
+    },
+    {
+        "id": 13,
+        "student_name": "Mindi Seheult",
+        "parent_name": "Emmitt",
+        "school_name": "biostreet",
+        "class": 10,
+        "teacher": "Max"
+    },
+    {
+        "id": 14,
+        "student_name": "Esther Wegman",
+        "parent_name": "Casandra",
+        "school_name": "Ranktrans",
+        "class": 10,
+        "teacher": "Max"
+    },
+    {
+        "id": 15,
+        "student_name": "Esther Glover",
+        "parent_name": "Sheri",
+        "school_name": "Movetam",
+        "class": 8,
+        "teacher": "Esther"
+    },
+    {
+        "id": 16,
+        "student_name": "Marcela Daboni",
+        "parent_name": "Dulcie",
+        "school_name": "Treefix",
+        "class": 2,
+        "teacher": "Judie"
+    },
+    {
+        "id": 17,
+        "student_name": "Max Litwin",
+        "parent_name": "Jerold",
+        "school_name": "Ventostreet",
+        "class": 7,
+        "teacher": "Dulcie"
+    },
+    {
+        "id": 18,
+        "student_name": "Nadia Daboni",
+        "parent_name": "Georgetta",
+        "school_name": "Ventostreet",
+        "class": 1,
+        "teacher": "Jennie"
+    },
+    {
+        "id": 19,
+        "student_name": "Casandra Korsgaard",
+        "parent_name": "Deidre",
+        "school_name": "Ventostreet",
+        "class": 5,
+        "teacher": "Anabel"
+    },
+    {
+        "id": 20,
+        "student_name": "Felicitas Landenna",
+        "parent_name": "Ona",
+        "school_name": "Physcone",
+        "class": 4,
+        "teacher": "Valda"
+    },
+    {
+        "id": 21,
+        "student_name": "Felicitas Bator",
+        "parent_name": "Judie",
+        "school_name": "Golden-lane",
+        "class": 3,
+        "teacher": "Theo"
+    },
+    {
+        "id": 22,
+        "student_name": "Anabel Cichon",
+        "parent_name": "Shella",
+        "school_name": "Truetam",
+        "class": 10,
+        "teacher": "Denice"
+    },
+    {
+        "id": 23,
+        "student_name": "Valda Reid-cunningham",
+        "parent_name": "Theo",
+        "school_name": "Y-dom",
+        "class": 5,
+        "teacher": "Felicitas"
+    },
+    {
+        "id": 24,
+        "student_name": "Elizbeth Afzal-khan",
+        "parent_name": "Hilde",
+        "school_name": "Truetam",
+        "class": 8,
+        "teacher": "Anabel"
+    },
+    {
+        "id": 25,
+        "student_name": "Vincent Wegman",
+        "parent_name": "Valda",
+        "school_name": "Gravejob",
+        "class": 5,
+        "teacher": "Marylouise"
+    },
+    {
+        "id": 26,
+        "student_name": "Valda Daboni",
+        "parent_name": "Berniece",
+        "school_name": "Finjocane",
+        "class": 9,
+        "teacher": "Rene"
+    },
+    {
+        "id": 27,
+        "student_name": "Rebeca Reid-cunningham",
+        "parent_name": "Rebeca",
+        "school_name": "Zoozooplus",
+        "class": 9,
+        "teacher": "Harriet"
+    },
+    {
+        "id": 28,
+        "student_name": "Dulcie Rhoades",
+        "parent_name": "Rene",
+        "school_name": "Zenhigh",
+        "class": 7,
+        "teacher": "Brittaney"
+    },
+    {
+        "id": 29,
+        "student_name": "Harriet Bator",
+        "parent_name": "Laci",
+        "school_name": "Gravejob",
+        "class": 3,
+        "teacher": "Sheri"
+    },
+    {
+        "id": 30,
+        "student_name": "Nadia Vetrovs",
+        "parent_name": "Mindi",
+        "school_name": "Zimhattech",
+        "class": 2,
+        "teacher": "Cordell"
+    },
+    {
+        "id": 31,
+        "student_name": "Anabel Daboni",
+        "parent_name": "Rosalina",
+        "school_name": "Funholding",
+        "class": 1,
+        "teacher": "Claudio"
+    },
+    {
+        "id": 32,
+        "student_name": "Sandee Daboni",
+        "parent_name": "Celestina",
+        "school_name": "biostreet",
+        "class": 8,
+        "teacher": "Felicitas"
+    },
+    {
+        "id": 33,
+        "student_name": "Valda Corgain",
+        "parent_name": "Jerold",
+        "school_name": "Opencare",
+        "class": 1,
+        "teacher": "Celestina"
+    },
+    {
+        "id": 34,
+        "student_name": "Hilde Cichon",
+        "parent_name": "Lottie",
+        "school_name": "Ventostreet",
+        "class": 2,
+        "teacher": "Shella"
+    },
+    {
+        "id": 35,
+        "student_name": "Ona Carder",
+        "parent_name": "Casandra",
+        "school_name": "Movetam",
+        "class": 1,
+        "teacher": "Marylouise"
+    },
+    {
+        "id": 36,
+        "student_name": "Sandee Pesarin",
+        "parent_name": "Berniece",
+        "school_name": "Silvercode",
+        "class": 8,
+        "teacher": "Dulcie"
+    },
+    {
+        "id": 37,
+        "student_name": "Celestina Torff",
+        "parent_name": "Cordell",
+        "school_name": "Zooelectrics",
+        "class": 9,
+        "teacher": "Vincent"
+    },
+    {
+        "id": 38,
+        "student_name": "Sheri Neilson",
+        "parent_name": "Cordell",
+        "school_name": "Y-com",
+        "class": 2,
+        "teacher": "Anabel"
+    },
+    {
+        "id": 39,
+        "student_name": "Jerold Chiogna",
+        "parent_name": "Esther",
+        "school_name": "Kintech",
+        "class": 5,
+        "teacher": "Sheri"
+    },
+    {
+        "id": 40,
+        "student_name": "Rene Sheahan",
+        "parent_name": "Hilde",
+        "school_name": "Doublelab",
+        "class": 2,
+        "teacher": "Franchesca"
+    },
+    {
+        "id": 41,
+        "student_name": "Claudio Pesarin",
+        "parent_name": "Sheri",
+        "school_name": "Bamcon",
+        "class": 3,
+        "teacher": "Vincent"
+    },
+    {
+        "id": 42,
+        "student_name": "Minnie Reid-cunningham",
+        "parent_name": "Emmitt",
+        "school_name": "Bamcon",
+        "class": 3,
+        "teacher": "Georgetta"
+    },
+    {
+        "id": 43,
+        "student_name": "Georgetta Wacquant",
+        "parent_name": "Bessie",
+        "school_name": "Howranfase",
+        "class": 2,
+        "teacher": "Casandra"
+    },
+    {
+        "id": 44,
+        "student_name": "Sandee Bhide",
+        "parent_name": "Esther",
+        "school_name": "Physcone",
+        "class": 9,
+        "teacher": "Berniece"
+    },
+    {
+        "id": 45,
+        "student_name": "Marcela Pieraccini",
+        "parent_name": "Sandee",
+        "school_name": "Fasela",
+        "class": 5,
+        "teacher": "Georgetta"
+    },
+    {
+        "id": 46,
+        "student_name": "Felicitas Bickmore",
+        "parent_name": "Casandra",
+        "school_name": "Zaamtechno",
+        "class": 6,
+        "teacher": "Berniece"
+    },
+    {
+        "id": 47,
+        "student_name": "Rebeca Prichard",
+        "parent_name": "Max",
+        "school_name": "Fasela",
+        "class": 5,
+        "teacher": "Marylouise"
+    },
+    {
+        "id": 48,
+        "student_name": "Sheri Cichon",
+        "parent_name": "Harriet",
+        "school_name": "Fasela",
+        "class": 8,
+        "teacher": "Sheri"
+    },
+    {
+        "id": 49,
+        "student_name": "Brittaney Schleifer",
+        "parent_name": "Mindi",
+        "school_name": "Funholding",
+        "class": 9,
+        "teacher": "Valda"
+    }
+]

@@ -1,0 +1,8 @@
+@media(min-width: 765px){
+	.res-desktop {
+		display: block;
+	}
+	.res-mobile {
+		display: none;;
+	}
+}
